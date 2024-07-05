@@ -5,7 +5,13 @@ The team aims to create an application that will allow commuters to access an al
 SWFT is a transportation application that aims to provide an alternative to public utility jeeps especially during rush hours as it gets difficult to find a jeep or taxi that is vacant due to the number of PUVs not being able to cater the number of commuters. With the use of SWFT it provides the user with a convenient and safe experience without the hassle of traffic as our riders are screened thoroughly to determine if they are fit and able to pass the road safety training. Users would also be able to avail discounts through vouchers. The app offers a seamless booking experience for motorcycle rides, ensuring rapid transit through congested urban areas. With a focus on safety, all riders undergo thorough background checks and training. SWFT incorporates real-time tracking and user feedback to continually enhance service reliability and efficiency, making it a trustworthy choice for daily commuting needs.
 
 # **Usage Instruction** 
-![Untitled design (4) (1)](https://github.com/Daisy-derata/school-portfolio/assets/174791821/2b9488da-7448-4546-9f46-6d96393668be)
+<img src="https://github.com/Daisy-derata/school-portfolio/assets/174791821/2b9488da-7448-4546-9f46-6d96393668be" alt="Image Description" width="200">
+<br> When you open the application, you will be greeted by the welcome screen, which displays the SWFT logo.
+<img src="https://github.com/Daisy-derata/school-portfolio/assets/174791821/4684701b-e90f-45da-b6a1-930347d5c126" alt="Helvetica World" width="200">
+<img src="https://github.com/Daisy-derata/school-portfolio/assets/174791821/ef7b7c5c-a00c-4140-9b88-f9a4bfe00106" alt="Helvetica World (9)" width="200">
+<img src="https://github.com/Daisy-derata/school-portfolio/assets/174791821/7e1986f6-943f-410c-96c5-78b769b80cdc" alt="Helvetica World (10)" width="200">
+<br> Register: 
+
 
 
 # **Features** 
